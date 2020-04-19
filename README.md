@@ -5,7 +5,7 @@ Exercícios
 Arduino Uno R3 e software Fritzing <br> <br>
 
 ## Observação: 
-Cada programa contem uma imagem da montagem na protoboard feito no software Fritzing. <br> <br>
+Cada programa contem uma imagem da montagem na protoboard feito com o software Fritzing. <br> <br>
 
 
 ## Como funciona: 
