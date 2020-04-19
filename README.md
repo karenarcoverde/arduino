@@ -13,3 +13,5 @@ push-botton_led -> Ao executar o programa, o usuário deve apertar o botão para
 
 sensor_de_luz_ldr -> Ao executar o programa, na parte monitor serial, o usuário poderá ver quanto de voltagem está variando conforme variamos a intensidade da luz. Quanto maior a intensidade da luz, menor a tensão de saída. O LDR é um resistor cuja resistência varia com a quantidade de luz que incide sobre ele. Componentes usados: Resistor 10K ohm, Resistor 330 ohm, LDR e led. <br> 
 OBS: Um led é colocado para medir quando a voltagem passa de 1.5V. Se for maior que 1.5V, o led acende. <br> <br>
+
+micro_servo -> <br> <br>
