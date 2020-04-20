@@ -21,3 +21,5 @@ sensor_de_luz_ldr -> Ao executar o programa, na parte monitor serial, o usuário
 OBS: Um led é colocado para medir quando a voltagem passa de 1.5V. Se for maior que 1.5V, o led acende. <br> <br>
 
 micro_servo -> Execute o programa, observe o monitor serial com o valor A0 (saída do potenciometro) e angulo mudando. Gire o knob do potenciometro, conforme giramos o monitor serial muda os valores, A0 com valor de (0 a 1023) e angulo (0° a 180°). O motor muda a posição de acordo com o ângulo que botarmos. Componentes usados: Micro Servo 9g SG90 TowerPro, Potenciometro 10K e Fonte ajustável para protoboard. <br> <br>
+
+temperatura_ntc -> <br> <br>
