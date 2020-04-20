@@ -29,3 +29,6 @@ ponte_h_rele -> Ao executar o programa, o motor DC gira no sentido antihorário 
 OBS: A cada vez que muda de sentido, um led acende indicando qual relé está aceso. <br> <br>
 
 sensor_dht11 -> Ao executar o programa, o monitor serial mostra a Temperatura (°C) e Umidade (%). É necessário ter a biblioteca "DHT sensor" e "Adafruit Unified Sensor" instalada no Arduino para executar o programa. Componentes usados: Resistor 10k ohm e Sensor de Umidade e Temperatura Dht11. <br> <br> 
+
+display_lcd:
+contador_60 -> <br> <br>
