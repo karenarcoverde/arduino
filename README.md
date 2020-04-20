@@ -25,4 +25,5 @@ micro_servo -> Execute o programa, observe o monitor serial com o valor A0 (saí
 temperatura_ntc -> Execute o programa e observe no monitor serial a Temperatura em Celsius e a Temperatura em Kelvin. Para calcular a temperatura em Kelvin foi usado a equação Steinhart-Hart, posteriormente convertido para Celsius. Componentes usados: Resistor 10k ohm e Termistor NTC 5mm 10K. <br>
 OBS: NTC = Negative Temperature Coeficient - a resistência elétrica diminui à medida que a temperatura aumenta. <br> <br>
 
-ponte_h_rele -> Ao executar o programa, o motor DC gira no sentido antihorário depois de 3 segundos no sentido horário em loop infinito. Componentes usados: Motor DC 5,9V RF-300; Adaptador ajustável para protoboard e Módulo Relé 2 Canais 5v com Optoacoplador.
+ponte_h_rele -> Ao executar o programa, o motor DC gira no sentido antihorário depois de 3 segundos no sentido horário em loop infinito. Componentes usados: Motor DC 5,9V RF-300; Adaptador ajustável para protoboard e Módulo Relé 2 Canais 5v com Optoacoplador. <br>
+OBS: A cada vez que muda de sentido, uma luz acende indicando qual relé está aceso. <br> <br>
