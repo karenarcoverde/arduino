@@ -7,20 +7,6 @@ const float velocidadeSom_mps = 340; //velocidade do som em m/s
 const float velocidadeSom_mpus = 0.000340;
 
 
-void DisparaPulsoUltrassonico ()
-{
-  digitalWrite (pinTrigger, HIGH);
-  delayMicroseconds (10);
-  digitalWrite (pinTrigger, LOW);
-}
-
-
-float CalculaDistancia (float tempo_us) 
-{
-  return ((tempo_us*velocidadeSom_mpus)/2); // retorna uma distancia em metros 
-}
-
-
 
 void setup() 
 {
@@ -47,6 +33,19 @@ void loop()
   delay(2000);
 }
 
+
+void DisparaPulsoUltrassonico ()
+{
+  digitalWrite (pinTrigger, HIGH);
+  delayMicroseconds (10);
+  digitalWrite (pinTrigger, LOW);
+}
+
+
+float CalculaDistancia (float tempo_us) 
+{
+  return ((tempo_us*velocidadeSom_mpus)/2); // retorna uma distancia em metros 
+}
 
 
   
