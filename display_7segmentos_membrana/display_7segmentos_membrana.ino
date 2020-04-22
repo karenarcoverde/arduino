@@ -40,16 +40,17 @@ void setup()
 void loop()
 {
   char customKey = customKeypad.getKey(); //leitura da tecla pressionada
-
+  //customKey 0 a 9, A,B,C,D,E,F - hexadecimal
+  
   int number = customKey - 48; // converte o caractere para um número (tabella ascii)
 
   if ((number > 16) && (number < 23)) //se o numero for entre 17 e 22, subtraia 7 (numeros hexadecimais)- tabela ascii
     number = number - 7; 
 
-
+// number 0 a 15
   if (customKey)
   {
-    my7S.print(number); //mostra o caractere no display
+    my7S.print(number); //mostra o caractere no display - retorna um numero hexadecimal
 
     Serial.println (number); // imprime o numero no monitor serial 
   }
