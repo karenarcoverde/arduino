@@ -66,9 +66,9 @@ Tecla | Código
 9 | FF906F
 0 | FF9867
 \* | FF6897
-\# | FFB04F
-seta para cima | FF18E7
-seta para baixo | FF4AB5
+\# | FFB04F	
+&#8593; | FF18E7
+&#8595; | FF4AB5
 &#8594; | FF5AA5
 &#8592; | FF10EF
 OK | FF38C7
