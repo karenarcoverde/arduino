@@ -38,5 +38,7 @@ OBS: É necessário ter a biblioteca Liquid Crystal. <br> <br>
 
 distancia_ultrassonico -> Ao executar o programa e observar o monitor serial mostrando a distância do objeto em metros e centímetros. Componente usado: Módulo Sensor de Distância Ultrassônico HC-SR04 <br> <br>
 
-display_7segmentos_membrana -> 
-https://github.com/SindormirNet/SindormirSevenSegments
+display_7segmentos_membrana -> Ao carregar o programa, aperte os botões da membrana e o valor correspondente aparecerá no display. Componentes usados: Teclado Matricial De Membrana - 16 Teclas, Resistor 330 ohm, Display de 7 segmentos com 1 Dígito (Catodo Comum) -  Modelo: HS-5161AS 1705R2 / 5611AH. <br>
+Biblioteca usada para o Teclado de Membrana: Keypad de Mark Stanley <br>
+Biblioteca usada para o Display de 7 segmentos: https://github.com/SindormirNet/SindormirSevenSegments <br> 
+Lembre-se: os pinos 3 e 8 são correspondentes ao Catodo e Anodo, use apenas um para conectar o GND (se for Catodo Comum) ou o 5V (se for Anodo Comum).<br> <br>
