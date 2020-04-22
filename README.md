@@ -37,3 +37,6 @@ Componentes usados: Potenciometro 10K ohm  e Display Lcd 16x2 com Backlight Azul
 OBS: É necessário ter a biblioteca Liquid Crystal. <br> <br>
 
 distancia_ultrassonico -> Ao executar o programa e observar o monitor serial mostrando a distância do objeto em metros e centímetros. Componente usado: Módulo Sensor de Distância Ultrassônico HC-SR04 <br> <br>
+
+display_7segmentos_membrana -> 
+https://github.com/SindormirNet/SindormirSevenSegments
