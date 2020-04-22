@@ -50,7 +50,8 @@ Tecla 2 -> Apaga led vermelho <br>
 Tecla 4 -> Acende led verde <br>
 Tecla 5 -> Apaga led verde <br>
 Tecla 7 -> Acende led amarelo <br>
-Tecla 8 -> Apaga led amarelo <br> <br>
+Tecla 8 -> Apaga led amarelo <br> 
+Tecla 3 -> Apaga os 3 leds <br> <br>
 É necessário ter a biblioteca IRremote (de shiirf) instalada. <br> <br>
 Lembre-se de colocar a bateria do controle na posição correta (Positivo no lado positivo) para o controle funcionar. <br> <br>
 O valor lido pelo receptor retorna um endereço em Hexa. <br> <br>
