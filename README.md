@@ -69,7 +69,7 @@ Tecla | Código
 \# | FFB04F
 seta para cima | FF18E7
 seta para baixo | FF4AB5
-seta para direita | FF5AA5
+&#8594; | FF5AA5
 seta para esquerda | FF10EF
 OK | FF38C7
 
