@@ -53,6 +53,12 @@ Tecla 8 -> Apaga led amarelo <br>
 É necessário ter a biblioteca IRremote (de shiirf) instalada. <br>
 O valor lido pelo receptor retorna um endereço em Hexa <br>
 Código das teclas (Use 0x antes de cada código, ex: OxFFA25D): <br>
+Tecla | Código
+------------ | -------------
+1 | FFA25D
+2 | FF629D
+
+
 Tecla  ---------------------------  Código    <br>
 1  -------------------------------  FFA25D   <br>
 2  -------------------------------  FF629D   <br>
