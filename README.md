@@ -70,6 +70,6 @@ Tecla | Código
 seta para cima | FF18E7
 seta para baixo | FF4AB5
 &#8594; | FF5AA5
-seta para esquerda | FF10EF
+&#8592; | FF10EF
 OK | FF38C7
 
