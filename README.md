@@ -44,7 +44,7 @@ Biblioteca usada para o Display de 7 segmentos: https://github.com/SindormirNet/
 Lembre-se: os pinos 3 e 8 são correspondentes ao Catodo e Anodo, use apenas um para conectar o GND (se for Catodo Comum) ou o 5V (se for Anodo Comum).<br> <br>
 
 controle_ir_led -> Ao carregar o programa no Arduino, aproxime o controle remoto IR próximo do receptor e aperte as teclas. <br>
-Componentes usados: 3 Resistores 330 ohm, Controle Remoto Ir + Receptor Ir, 1 Led Vermelho, 1 Led Verde e 1 Led Amarelo. <br>
+Componentes usados: 3 Resistores 330 ohm, Receptor Universal Infravermelho VS1838B 38Khz, Controle Remoto 38kHz, 1 Led Vermelho, 1 Led Verde e 1 Led Amarelo. <br>
 Tecla 1 -> Acende led vermelho <br>
 Tecla 2 -> Apaga led vermelho <br>
 Tecla 4 -> Acende led verde <br>
