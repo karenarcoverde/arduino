@@ -42,3 +42,31 @@ display_7segmentos_membrana -> Ao carregar o programa, aperte os botões da memb
 Biblioteca usada para o Teclado de Membrana: Keypad de Mark Stanley <br>
 Biblioteca usada para o Display de 7 segmentos: https://github.com/SindormirNet/SindormirSevenSegments <br> 
 Lembre-se: os pinos 3 e 8 são correspondentes ao Catodo e Anodo, use apenas um para conectar o GND (se for Catodo Comum) ou o 5V (se for Anodo Comum).<br> <br>
+
+controle_ir_led -> Ao carregar o programa no Arduino, aproxime o controle remoto IR próximo do receptor e aperte as teclas. <br> 
+Tecla 1 -> Acende led vermelho <br>
+Tecla 2 -> Apaga led vermelho <br>
+Tecla 4 -> Acende led verde <br>
+Tecla 5 -> Apaga led verde <br>
+Tecla 7 -> Acende led amarelo <br>
+Tecla 8 -> Apaga led amarelo <br>
+É necessário ter a biblioteca IRremote (de shiirf) instalada. <br>
+Código das teclas: <br>
+Tecla                 Código  <br>
+1                     FFA25D        <br>
+2                     FF629D        <br>
+3                     FFE21D       <br>
+4                     FF22DD       <br>
+5                     FF02FD        <br>
+6                     FFC23D      <br>
+7                     FFE01F       <br>
+8                     FFA857         <br>
+9                     FF906F         <br>
+0                     FF9867       <br>
+*                     FF6897        <br>
+/#                    FFB04F       <br>
+seta para cima        FF18E7                     <br>
+seta para baixo       FF4AB5                     <br>
+seta para direita     FF5AA5                        <br>
+seta para esquerda    FF10EF                         <br>
+OK                    FF38C7         <br>
