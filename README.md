@@ -53,7 +53,7 @@ Tecla 8 -> Apaga led amarelo <br> <br>
 É necessário ter a biblioteca IRremote (de shiirf) instalada. <br> <br>
 Lembre-se de colocar a bateria do controle na posição correta (Positivo no lado positivo) para o controle funcionar. <br> <br>
 O valor lido pelo receptor retorna um endereço em Hexa. <br> <br>
-Código das teclas (Use 0x antes de cada código, ex: OxFFA25D): <br> <br>
+Código das teclas (Use 0x antes de cada código, ex: 0xFFA25D): <br> <br>
 Tecla | Código
 ------------ | -------------
 1 | FFA25D
