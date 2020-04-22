@@ -41,9 +41,9 @@ void loop()
 {
   char customKey = customKeypad.getKey(); //leitura da tecla pressionada
 
-  int number = customKey - 48; // converte o caractere para um número 
+  int number = customKey - 48; // converte o caractere para um número (tabella ascii)
 
-  if ((number > 16) && (number < 23)) //se o numero for entre 17 e 22, subtraia 7 (numeros hexadecimais)
+  if ((number > 16) && (number < 23)) //se o numero for entre 17 e 22, subtraia 7 (numeros hexadecimais)- tabela ascii
     number = number - 7; 
 
 
