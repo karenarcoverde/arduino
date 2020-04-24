@@ -8,7 +8,7 @@ Arduino Uno R3 e software Fritzing <br> <br>
 Cada programa contem uma imagem da montagem na protoboard feito com o software Fritzing. <br> <br>
 
 ## Objetivo:
-Aprimorar meu conhecimento em Arduino ao fazer exercícios sobre o assunto, aprendendo a usar cada componente e as bibliotecas disponíveis. <br>
+Aprimorar meu conhecimento em Arduino ao fazer exercícios sobre o assunto, aprendendo a usar cada componente e as bibliotecas disponíveis, ao seguir tutoriais do Youtube e PDFs disponibilizados, tal como Eletrogate. <br>
 
 
 ## Como funciona: 
