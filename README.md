@@ -88,5 +88,5 @@ Componentes usados: Kit Módulo Rfid Mfrc522 13,56 Mhz, Cartão Rfid Mfrc522 13,
 rtc_ds1307 -> Ao carregar o programa no Arduino, o monitor serial irá mostrar a data (dia, mês, ano) e o horário (horas, minutos, segundos). <br>
 É necessário ter a biblioteca RTClib da Adafruit instalada. <br>
 Componentes usados: Módulo Real Time Clock RTC Ds1307 <br>
-Lembre-se de ter os pinos soldados. <br>
+Lembre-se de ter os pinos soldados do Módulo Real Time Clock RTC Ds1307 para funcionar corretamente. <br>
 
