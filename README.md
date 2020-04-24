@@ -11,6 +11,7 @@ Cada programa contem uma imagem da montagem na protoboard feito com o software F
 Aprimorar meu conhecimento em Arduino ao fazer exercícios sobre o assunto, aprendendo a usar cada componente e as bibliotecas disponíveis, ao seguir tutoriais do Youtube e PDFs disponibilizados na Internet. <br>
 
 
+
 ## Como funciona: 
 
 led_piscando -> Execute o programa e o led irá piscar de 1 em 1s. Resistor usado: 330 ohm. <br> <br>
@@ -89,4 +90,9 @@ rtc_ds1307 -> Ao carregar o programa no Arduino, o monitor serial irá mostrar a
 É necessário ter a biblioteca RTClib da Adafruit instalada. <br>
 Componentes usados: Módulo Real Time Clock RTC Ds1307 <br>
 Lembre-se de ter os pinos soldados do Módulo Real Time Clock RTC Ds1307 para funcionar corretamente. <br>
+
+## Fonte:
+* https://conteudo.eletrogate.com/apostila-arduino-maker <br>
+* https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw <br>
+
 
