@@ -85,3 +85,8 @@ Lembre-se de ter os pinos soldados do módulo RFID para funcionar corretamente. 
 É necessário ter a biblioteca MFRC522 instalada no Arduino (https://github.com/makerspaceleiden/rfid). Nesta biblioteca é possível ver em quais entradas digitais os pinos devem entrar de acordo com o tipo de Arduino.  <br>
 Componentes usados: Kit Módulo Rfid Mfrc522 13,56 Mhz, Cartão Rfid Mfrc522 13,56 Mhz e Chaveiro Tag Rfid Mifare 1k 13.56 Mhz. <br>
 
+rtc_ds1307 -> Ao carregar o programa no Arduino, o monitor serial irá mostrar a data (dia, mês, ano) e o horário (horas, minutos, segundos). <br>
+É necessário ter a biblioteca RTClib da Adafruit instalada. <br>
+Componentes usados: Módulo Real Time Clock RTC Ds1307 <br>
+Lembre-se de ter os pinos soldados. <br>
+
