@@ -81,6 +81,6 @@ OK | FF38C7
 
 modulo_rfid -> Ao carregar o programa no Arduino, abra o monitor serial e aproxime o cartão ou chaveiro próximo do módulo RFID e observe o monitor serial ler as informações. <br>
 Lembre-se de ter os pinos soldados do módulo RFID para funcionar corretamente. <br>
-É necessário ter a biblioteca MFRC522 instalada no Arduino (https://github.com/makerspaceleiden/rfid). <br>
+É necessário ter a biblioteca MFRC522 instalada no Arduino (https://github.com/makerspaceleiden/rfid). Nesta biblioteca é possível ver em quais entradas digitais os pinos devem entrar de acordo com o tipo de Arduino. <br>
 Componentes usados: Kit Módulo Rfid Mfrc522 13,56 Mhz, Cartão Rfid Mfrc522 13,56 Mhz e Chaveiro Tag Rfid Mifare 1k 13.56 Mhz. <br>
 
