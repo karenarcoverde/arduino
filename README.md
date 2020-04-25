@@ -91,6 +91,10 @@ rtc_ds1307 -> Ao carregar o programa no Arduino, o monitor serial irá mostrar a
 Componentes usados: Módulo Real Time Clock RTC Ds1307 <br>
 Lembre-se de ter os pinos soldados do Módulo Real Time Clock RTC Ds1307 para funcionar corretamente. <br>
 
+controle_rgb -> <br> <br>
+
+rgb_tons -> <br> <br>
+
 ## Fonte:
 * https://conteudo.eletrogate.com/apostila-arduino-maker <br>
 * https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw <br>
