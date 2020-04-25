@@ -102,7 +102,7 @@ Tecla 4 -> Acende cor verde <br>
 Tecla 5 -> Apaga cor verde <br>
 Tecla 7 -> Acende cor azul <br>
 Tecla 8 -> Apaga cor azul <br> 
-Tecla 3 -> Acende as cores em sequência: Vermelho, Verde e Azul. <br> 
+Tecla 3 -> Acende as cores em sequência, com delay de 1s: Vermelho, Verde e Azul. <br> 
 Tecla 6 -> Apaga as 3 cores <br> <br>
 
 
