@@ -95,6 +95,17 @@ controle_rgb -> <br> <br>
 
 rgb_tons -> <br> <br>
 
+ir_rgb -> Ao carregar o programa, o usuário pode controlar o led RGB com o controle remoto IR. É possível fazer mistura de cores, tais como: violeta = azul + vermelho, azul bem claro = verde + azul, amarelo = verde + vermelho. Componentes usados: 3 Resistores 330 ohm, Led RGB 5mm - Catodo Comum, Receptor Universal Infravermelho VS1838B 38Khz e Controle Remoto 38kHz (sem bateria).   <br> 
+Tecla 1 -> Acende cor vermelho <br>
+Tecla 2 -> Apaga cor vermelho <br>
+Tecla 4 -> Acende cor verde <br>
+Tecla 5 -> Apaga cor verde <br>
+Tecla 7 -> Acende cor azul <br>
+Tecla 8 -> Apaga cor azul <br> 
+Tecla 3 -> Acende as cores em sequência: Vermelho, Verde e Azul. <br> 
+Tecla 6 -> Apaga as 3 cores <br> <br>
+
+
 ## Fonte:
 * https://conteudo.eletrogate.com/apostila-arduino-maker <br>
 * https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw <br>
