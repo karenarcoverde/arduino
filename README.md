@@ -91,9 +91,9 @@ rtc_ds1307 -> Ao carregar o programa no Arduino, o monitor serial irá mostrar a
 Componentes usados: Módulo Real Time Clock RTC Ds1307 <br>
 Lembre-se de ter os pinos soldados do Módulo Real Time Clock RTC Ds1307 para funcionar corretamente. <br>
 
-controle_rgb -> Ao carregar o programa, o led RGB mostra as cores em sequência, com delay de 1s: Vermelho, Verde e Azul. Componentes usados: 3 Resistores 330 ohm, Led RGB 5mm - Catodo Comum.<br> <br>
+controle_rgb -> Ao carregar o programa, o led RGB mostra as cores em sequência, com delay de 1s: Vermelho, Verde e Azul. Componentes usados: 3 Resistores 330 ohm e Led RGB 5mm - Catodo Comum. <br> <br>
 
-rgb_tons -> Ao carregar o programa, o led RGB mostra diferentes tons de cores em sequência (mostrando o fraco até o forte de uma determinada cor): amarelo, verde, azul bem claro, azul, violeta, vermelho, ficando em loop até desligar a placa. Componentes usados: 3 Resistores 330 ohm, Led RGB 5mm - Catodo Comum. <br> <br>
+rgb_tons -> Ao carregar o programa, o led RGB mostra diferentes tons de cores em sequência (mostrando o fraco até o forte de uma determinada cor): amarelo, verde, azul bem claro, azul, violeta, vermelho, ficando em loop até desligar a placa. Componentes usados: 3 Resistores 330 ohm e Led RGB 5mm - Catodo Comum. <br> <br>
 
 ir_rgb -> Ao carregar o programa, o usuário pode controlar o led RGB com o controle remoto IR. É possível fazer mistura de cores, tais como: violeta = azul + vermelho, azul bem claro = verde + azul, amarelo = verde + vermelho. Componentes usados: 3 Resistores 330 ohm, Led RGB 5mm - Catodo Comum, Receptor Universal Infravermelho VS1838B 38Khz e Controle Remoto 38kHz (sem bateria).   <br> 
 Tecla 1 -> Acende cor vermelho <br>
