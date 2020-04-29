@@ -105,6 +105,8 @@ Tecla 8 -> Apaga cor azul <br>
 Tecla 3 -> Acende as cores em sequência, com delay de 1s: Vermelho, Verde e Azul. <br> 
 Tecla 6 -> Apaga as 3 cores <br> <br>
 
+lm35 -> Ao carregar o programa, o monitor serial pegará a média de 10 temperaturas medidas pelo sensor e mostrará na tela. Componentes usados: Sensor Temperatura LM35DZ. <br> <br>
+
 
 ## Fonte:
 * https://conteudo.eletrogate.com/apostila-arduino-maker <br>
