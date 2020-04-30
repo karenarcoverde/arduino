@@ -109,7 +109,7 @@ lm35 -> Ao carregar o programa, o monitor serial pegará a média de 10 temperat
 
 lm35_lcd_16x2 -> Ao carregar o programa, o LCD mostrará a Temperatura em Graus Celsius. Gire o Potenciômetro para ter uma visão melhor das letras no LCD. Componentes usados: Potenciômetro Linear 10KΩ, Display Lcd 16x2 com Backlight Azul e Sensor Temperatura LM35DZ. <br> <br>
 
-buzzer_sirene -> <br> <br>
+buzzer_sirene -> Ao carregar o programa no Arduino, começará um som de sirene. Componente usado: Buzzer Ativo 5V. <br> <br>
 
 
 ## Fonte:
