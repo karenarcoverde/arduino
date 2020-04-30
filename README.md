@@ -107,6 +107,8 @@ Tecla 6 -> Apaga as 3 cores <br> <br>
 
 lm35 -> Ao carregar o programa, o monitor serial pegará a média de 10 temperaturas medidas pelo sensor e mostrará na tela. Componentes usados: Sensor Temperatura LM35DZ. <br> <br>
 
+lm35_lcd_16x2 -> Ao carregar o programa, o LCD mostrará a Temperatura em Graus Celsius. Gire o Potenciômetro para ter uma visão melhor das letras no LCD. Componentes usados: Potenciômetro Linear 10KΩ, Display Lcd 16x2 com Backlight Azul e Sensor Temperatura LM35DZ. <br> <br>
+
 
 ## Fonte:
 * https://conteudo.eletrogate.com/apostila-arduino-maker <br>
