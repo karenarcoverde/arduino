@@ -120,4 +120,5 @@ jogo_dino -> Ao carregar o programa no Arduino, coloque o sensor próximo a tela
 * https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw <br>
 * https://www.youtube.com/channel/UCyA0hVjN35YmMZLyZkES-Pg <br>
 * https://athoselectronics.com/ <br>
+* https://www.youtube.com/user/iberethenorio <br>
 
