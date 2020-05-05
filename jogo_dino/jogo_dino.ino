@@ -28,7 +28,7 @@ void loop()
   // Se o valor lido estiver abaixo de certo valor...
   if (analogRead(A0) > 690) {
     
-    // Mova o servomotor 20 graus.
+    // Mova o servomotor 40 graus.
     servo_2.write(40);
     
     // Espere um tempo
