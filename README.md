@@ -112,6 +112,9 @@ lm35_lcd_16x2 -> Ao carregar o programa, o LCD mostrará a Temperatura em Graus 
 buzzer_sirene -> Ao carregar o programa no Arduino, começará um som de sirene. Componente usado: Buzzer Ativo 5V. <br> <br>
 
 
+jogo_dino -> Ao carregar o programa no Arduino, coloque o sensor próximo a tela do computador (em uma posição não muito distante do dinossauro e não muito perto do dinossauro) e o Servo Motor próximo a barra de espaço. Acesse o site chrome://dino/ e veja o dinossauro pulando os cactos por meio do servo motor e do sensor. Componentes usados: Resistor 10K 1/4W, Sensor Fotoresistor LDR de 5mm e Micro Servo 9g SG90 TowerPro. Maior dificuldade desse projeto é conseguir achar uma posição boa para o sensor na tela, pois a velocidade com que o cacto se movimenta na tela é muito rápido para o sensor ler. <br> <br>
+
+
 ## Fonte:
 * https://conteudo.eletrogate.com/apostila-arduino-maker <br>
 * https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw <br>
